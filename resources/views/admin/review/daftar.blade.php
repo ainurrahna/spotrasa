@@ -6,6 +6,7 @@
 <div class="container page">
     <h1 class="page-title">Moderasi review</h1>
 
+
     {{-- Saringan review --}}
     <form method="GET" action="{{ route('admin.review.daftar') }}" class="panel mb-3">
         <div class="row g-2 align-items-end">
